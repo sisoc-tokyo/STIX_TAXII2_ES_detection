@@ -57,5 +57,5 @@ The tools are tested in the following environment.
 　The useage is the following.<br/>
 　Register the above programs as scheduled task(cron etc).<br>
   e.g）python poll_create_file.py {TAXII Service URL} <br/>
-  		   python  input_report_mail.py {STIX file path}
+       python  input_report_mail.py {STIX file path}
 
